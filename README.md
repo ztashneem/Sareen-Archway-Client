@@ -1,23 +1,46 @@
-# Getting Started with Create React App
+# Welcome to  Sareen's Archways  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Sareen's Archways Manufactured Live App  [Menufacture  Sareen's Archways  ](https://sareen-archways.web.app/).
 
-## Available Scripts
+## Overused marketing phrases
+### Featured 
+              1. FEP  Sareen's Archways   OF THE YEAR 2020 - Wedding Golden   
+                  1. With a passion for / We are passionate about / We believe 
+                    2. Make your dreams a reality / Bring your vision to life / Dream wedding 
+                   3. Go the extra mile / Go above and beyond / Take it to the next level 
+                   4.Perfect day / Special day / Best day of your life / Best day ever / Once-in-a-lifetime
+                    5.Happy / wounderful /decurated family
 
-In the project directory, you can run:
+  ###  Sareen's Archways   is a dream changer 
+  ** Sareen's Archways     is considered to be the ‘game-changer’ in Bangladesh’s   industry. Carefully-chosen raw material, environment-friendly business practice and customer-centric approach is what made MORDERNA a beloved brand at home and abroad.**  
 
-### `npm start`
+ ## So what should I do instead?
+* The Essentials
+              * Is this submission addressed to me or my publication?
+                  * Has this shoot been submitted or published elsewhere
+          * The   
+          * Have the    been edited in a consistent style for seamless flow?
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* Have enough    been supplied to tell a compelling story?
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+*  How much time will it take to sort through the    and make a selection?
 
-### `npm test`
+*  Does this    feature images that will resonate with our followers on Instagram and Facebook?
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+*  Does this shoot feature portrait images of details that will appeal on Pinterest?
+
+## Use Tools 
+
+Tools | Assists | Meterials
+| :--- | ---: | :---:
+ Mongodb | Node Js | Express Js
+ Hero kuu | JWT | dotenv
+ Stripe | daisy ui |React Leflet
+ React Authentication |  React Bootstrap |  React firebase hooks
+ React Hooks Form | React Halmate | React hot toast
+ React Icons | React Router | Components
+React Hot Toast   | React Dom | RequireAuth
+Vs Code  | Firebase| Google Authentication 
 
 ### `npm run build`
 
